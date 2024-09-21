@@ -1,0 +1,34 @@
+# Python
+*.py[cod]
+__pycache__/
+*.so
+
+# Django
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media
+
+# Virtual environment
+venv/
+.env
+
+# Static files
+/static/
+
+# macOS
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Environment variables
+.env
+
+# AWS credentials
+.aws/credentials
+

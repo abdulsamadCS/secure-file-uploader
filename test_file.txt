@@ -1,0 +1,2 @@
+This is a test file for our secure file uploader.
+It contains some sample text that we'll encrypt and upload.
